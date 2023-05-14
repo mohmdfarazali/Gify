@@ -26,6 +26,6 @@ I welcome contributions from anyone who wants to help improve our Gif Generator 
 
 ## Issues
 
-If you encounter any issues with our website, please submit an issue on my GitHub repository. I will do my best to resolve any issues as quickly as possible.
+If you encounter any issues with my website, please submit an issue on my GitHub repository. I will do my best to resolve any issues as quickly as possible.
 
 Thank you for using Gif Generator Website! I hope you enjoy using it as much as I enjoyed building it. ✨
